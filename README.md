@@ -6,8 +6,8 @@
 ---
 
 ## デモ
-- Before（崩れあり）: https://{githubユーザー名}.github.io/{repo名}/?style=before
-- After（修正後）:   https://{githubユーザー名}.github.io/{repo名}/?style=after
+- Before（崩れあり）: https://aoiishikawa1818.github.io/responsive-fix-sample/?style=before
+- After（修正後）: https://aoiishikawa1818.github.io/responsive-fix-sample/?style=after
 
 ## 変更したファイル
 - `index.html` / `before.css` / `after.css`（SP崩れ修正・余白/タイポ調整）
